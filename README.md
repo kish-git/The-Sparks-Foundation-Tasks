@@ -1,2 +1,2 @@
 # Sparks Foundation
-All Task's Codes/Notebooks can be Found Here.
+All Codes/Notebooks of Sparks Foundation's Tasks can be Found Here.
