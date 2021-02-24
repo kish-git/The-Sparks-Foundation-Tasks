@@ -26,4 +26,4 @@ _Please click on the images on right side to view my solution._
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-### You can view all the tasks on my [youtube playlist](https://youtube.com/playlist?list=PLW9sCvvI7Vb0VJ2QxfOQtpuvmi1OC2R8J) as well.
+### You can view all the tasks on my [Youtube Playlist](https://youtube.com/playlist?list=PLW9sCvvI7Vb0VJ2QxfOQtpuvmi1OC2R8J) as well.
